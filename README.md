@@ -13,3 +13,6 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Results
 
+ - Total number of Vine reviews and non-Vine reviews
+ 
+ 
