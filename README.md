@@ -52,5 +52,5 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
    
    
    ## Summary
- 
- 
+   
+   Based on the last above results, the percentage of 5-star vine reviews is about 52.3% and for non-vine reviews is about 52.7%. So, there is not any positivity bias for reviews in the Vine program. One additional analysis could be considering the 
