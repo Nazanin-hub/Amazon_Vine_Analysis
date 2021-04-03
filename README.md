@@ -8,9 +8,9 @@ Then, I used PySpark to determine if there is any bias toward favorable reviews 
 
 ## Resources
 
-Data Source: Amazon Review datasets, amazon_reviews_us_Outdoors_v1_00.tsv
+ - Data Source: Amazon Review datasets, amazon_reviews_us_Outdoors_v1_00.tsv
 
-Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
+ - Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Results
 
